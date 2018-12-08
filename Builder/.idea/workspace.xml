@@ -2,7 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5931dd05-3377-4e61-824b-6893875158b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/FrajkerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/FrajerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/Fabryka_abstrakcyjna.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/AssaultRifle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaAK47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaBroni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaDodatkow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaFabrykBroni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaM4A1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaPodzespolowAK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaPodzespolowM4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/Rzecz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/Schowek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/Slon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/adapterBroni/AdapterBroniNaRzecz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/adapterSloniNaRzecz/AdapterSloniNaRzecz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/celownik/Acog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/celownik/AimPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/celownik/Celownik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/kolba/Kolba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/kolba/RegularStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/kolba/TacticalStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/magazynek/ExtendedMag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/magazynek/Magazynek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/magazynek/QuickdrawMag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/silencer/FlashHider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/silencer/Silencer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/silencer/SoundSilencer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/AssaultRifle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/FabrykaAK47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/FabrykaBroni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/FabrykaDodatkow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/FabrykaFabrykBroni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/FabrykaM4A1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/FabrykaPodzespolowAK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/FabrykaPodzespolowM4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/Rzecz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/Schowek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/Slon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/adapterBroni/AdapterBroniNaRzecz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/adapterSloniNaRzecz/AdapterSloniNaRzecz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/celownik/Acog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/celownik/AimPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/celownik/Celownik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/kolba/Kolba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/kolba/RegularStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/kolba/TacticalStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/magazynek/ExtendedMag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/magazynek/Magazynek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/magazynek/QuickdrawMag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/silencer/FlashHider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/silencer/Silencer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka_abstrakcyjna/src/com/umcs/podzespoly/silencer/SoundSilencer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,13 +76,13 @@
     <session id="-86382420">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,8 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/umcs/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            <state relative-caret-position="612">
+              <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -69,7 +130,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/umcs/Builder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="221">
               <caret line="15" column="132" selection-start-line="15" selection-start-column="132" selection-end-line="15" selection-end-column="132" />
               <folding>
                 <element signature="e#350#351#0" expanded="true" />
@@ -80,10 +141,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/FrajkerBuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/com/umcs/FrajerBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="60" />
+            <state relative-caret-position="272">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -138,9 +199,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1144" />
-    <option name="width" value="783" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -148,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -171,14 +234,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543968266189" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544287556555" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Strategy" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -225,17 +287,17 @@
       <workItem from="1544037348874" duration="49000" />
       <workItem from="1544039821566" duration="8000" />
       <workItem from="1544186365303" duration="10000" />
+      <workItem from="1544285287170" duration="999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3976000" />
+    <option name="totallyTimeSpent" value="4975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17324094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -272,35 +334,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/umcs/Kierownik.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="132" selection-start-line="15" selection-start-column="132" selection-end-line="15" selection-end-column="132" />
-          <folding>
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/FrajkerBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -315,6 +352,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/FrajerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="132" selection-start-line="15" selection-start-column="132" selection-end-line="15" selection-end-column="132" />
+          <folding>
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
         </state>
       </provider>
     </entry>

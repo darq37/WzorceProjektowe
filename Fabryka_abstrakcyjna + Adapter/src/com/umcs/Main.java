@@ -7,7 +7,6 @@ public class Main {
 
     public static void main(String[] args) {
         FabrykaFabrykBroni fabrykaFabrykBroni = new FabrykaFabrykBroni();
-        System.out.println("AK47");
         AssaultRifle ak = fabrykaFabrykBroni.wydajFabryke("AK").wydajBron();
         ak.sprawdz();
         ak.probnyStrzal();
@@ -23,4 +22,10 @@ public class Main {
         schowek.schowaj(new AdapterSloniNaRzecz(slon));
         schowek.listuj();
     }
+/*
+Tworze nowy obiekt fabryki broni,
+Wywoluje metode wydaj Fabryke. Ta zwraca mi odpowiednią Fabrykę broni, w zależności od wybranego modelu.Nnastępnie na FabrycebroniAK wywoluje metode wydajBron.
+Ta metoda wywoluje funkcje produkujące odpowiednie komponenty z fabryki dodatków, która jest przyjowana jako odpowiednia fabryka podzespołów do broni.
+Z kolei każda metoda w fabryce broni tworzy mi odpowiedni obiekt (celownik, kolba itp) uzywając zdefiniowanego konstruktora, w którym tylko wypisuje się na ekran "Dodaje <obiekt>"
+*/
 }

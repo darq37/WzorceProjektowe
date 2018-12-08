@@ -3,47 +3,68 @@
   <component name="ChangeListManager">
     <list default="true" id="c5d9e1d2-45a8-425b-884c-e8fff3ad4a5d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/AK47.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Acog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/AimPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/AssaultRifle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/AssaultRifle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Celownik.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/ExtendedMag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaBroni.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaBroni.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaDodatkow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaDodatkow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaPodzespolowAK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaPodzespolowAK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaPodzespolowM4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaPodzespolowM4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FlashHider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Kolba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/M4A1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Magazynek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/QuickdrawMag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/RegularStock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Silencer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/SoundSilencer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/TacticalStock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/AK47.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/Acog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/celownik/Acog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/AimPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/celownik/AimPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/AssaultRifle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/AssaultRifle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/Celownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/celownik/Celownik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/ExtendedMag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/magazynek/ExtendedMag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaBroni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/FabrykaBroni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaDodatkow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/FabrykaDodatkow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaPodzespolowAK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/FabrykaPodzespolowAK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaPodzespolowM4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/FabrykaPodzespolowM4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/FlashHider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/silencer/FlashHider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/Kolba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/kolba/Kolba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/M4A1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/Magazynek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/magazynek/Magazynek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/QuickdrawMag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/magazynek/QuickdrawMag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/RegularStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/kolba/RegularStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/Silencer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/silencer/Silencer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/SoundSilencer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/silencer/SoundSilencer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/umcs/TacticalStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/umcs/podzespoly/kolba/TacticalStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder/src/com/umcs/FrajkerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/src/com/umcs/FrajerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fabryka_abstrakcyjna.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/AssaultRifle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaAK47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaBroni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaDodatkow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaFabrykBroni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaM4A1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaPodzespolowAK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/FabrykaPodzespolowM4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Rzecz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Schowek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/Slon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/adapterBroni/AdapterBroniNaRzecz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/adapterSloniNaRzecz/AdapterSloniNaRzecz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/celownik/Acog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/celownik/AimPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/celownik/Celownik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/kolba/Kolba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/kolba/RegularStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/kolba/TacticalStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/magazynek/ExtendedMag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/magazynek/Magazynek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/magazynek/QuickdrawMag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/silencer/FlashHider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/silencer/Silencer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fabryka_abstrakcyjna/com/umcs/podzespoly/silencer/SoundSilencer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/AssaultRifle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaAK47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaBroni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaDodatkow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaFabrykBroni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaM4A1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaPodzespolowAK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/FabrykaPodzespolowM4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/Rzecz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/Schowek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/Slon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/adapterBroni/AdapterBroniNaRzecz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/adapterSloniNaRzecz/AdapterSloniNaRzecz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/celownik/Acog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/celownik/AimPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/celownik/Celownik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/kolba/Kolba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/kolba/RegularStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/kolba/TacticalStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/magazynek/ExtendedMag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/magazynek/Magazynek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/magazynek/QuickdrawMag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/silencer/FlashHider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/silencer/Silencer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/umcs/podzespoly/silencer/SoundSilencer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,11 +77,11 @@
     <session id="-485649027">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -89,126 +110,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/FabrykaPodzespolowM4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/FabrykaAK47.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/Schowek.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/Rzecz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/FabrykaDodatkow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/adapterBroni/AdapterBroniNaRzecz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/Slon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/adapterSloniNaRzecz/AdapterSloniNaRzecz.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/umcs/AssaultRifle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-              <folding>
-                <element signature="e#1123#1124#0" expanded="true" />
-                <element signature="e#1151#1152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -298,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -368,6 +269,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -375,6 +277,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544285069688" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fabryka_abstrakcyjna + Adapter" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -444,16 +347,17 @@
       <workItem from="1544190843377" duration="3417000" />
       <workItem from="1544201812143" duration="4981000" />
       <workItem from="1544271388322" duration="11826000" />
+      <workItem from="1544285221000" duration="222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20224000" />
+    <option name="totallyTimeSpent" value="20446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -491,46 +395,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/umcs/G36C.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/Adapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/Ammo762.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/Ammo556.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/AdapterAmunicji.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/Amunicja.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/Adapter.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/Ammo762.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/Ammo556.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/AdapterAmunicji.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/Amunicja.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -538,17 +407,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/M4A1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/M4A1.java" />
     <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/celownik/Celownik.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -560,10 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -571,10 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -582,10 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -600,10 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,28 +454,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/AK47.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/AK47.java" />
     <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/celownik/AimPoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -661,12 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,63 +521,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/FabrykaAK47.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/adapterBroni/AdapterM4A1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/FabrykaDodatkow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/adapterBroni/AdapterAK47.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/adapterBroni/AdapterM4A1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/adapterBroni/AdapterAK47.java" />
     <entry file="file://$PROJECT_DIR$/src/com/umcs/FabrykaPodzespolowM4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/AssaultRifle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/FabrykaAK47.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <element signature="e#1123#1124#0" expanded="true" />
-            <element signature="e#1151#1152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/adapterBroni/AdapterBroniNaRzecz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -765,10 +544,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/FabrykaDodatkow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/umcs/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="425">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/adapterBroni/AdapterBroniNaRzecz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -777,25 +573,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/umcs/Slon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/umcs/podzespoly/adapterSloniNaRzecz/AdapterSloniNaRzecz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/umcs/AssaultRifle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -803,7 +606,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/umcs/Schowek.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
