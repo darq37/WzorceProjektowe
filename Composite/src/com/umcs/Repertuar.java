@@ -3,8 +3,8 @@ package com.umcs;
 public class Repertuar {
     FilmComponent filmList;
 
-    public Repertuar(FilmComponent newSongList) {
-        filmList = newSongList;
+    public Repertuar(FilmComponent newFilmList) {
+        filmList = newFilmList;
     }
 
     public void getFilmList(){

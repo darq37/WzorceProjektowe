@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class FilmGroup extends FilmComponent {
-    ArrayList songComponents =  new ArrayList();
+    ArrayList filmComponents =  new ArrayList();
 
     String groupName;
     String groupDescription;
@@ -23,24 +23,24 @@ public class FilmGroup extends FilmComponent {
         return groupDescription;
     }
     public void add(FilmComponent newFilmComponent){
-        songComponents.add(newFilmComponent);
+        filmComponents.add(newFilmComponent);
     }
     public void remove(FilmComponent newFilmComponent){
-        songComponents.remove(newFilmComponent);
+        filmComponents.remove(newFilmComponent);
     }
 
     public FilmComponent getComponent(int componentIdex){
-        return (FilmComponent)songComponents.get(componentIdex);
+        return (FilmComponent) filmComponents.get(componentIdex);
     }
 
     public void displayFilmInfo(){
         System.out.println( "\n" + getGroupName() + " - " + getGroupDescription());
 
-        Iterator songIterator = songComponents.iterator();
+        Iterator filmIterator = filmComponents.iterator();
 
-        while(songIterator.hasNext()){
-            FilmComponent songInfo = (FilmComponent) songIterator.next();
-            songInfo.displayFilmInfo();
+        while(filmIterator.hasNext()){
+            FilmComponent filmInfo = (FilmComponent) filmIterator.next();
+            filmInfo.displayFilmInfo();
         }
     }
 

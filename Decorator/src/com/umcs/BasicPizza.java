@@ -12,7 +12,7 @@ public class BasicPizza implements Pizza {
     public double getCost() {
         return 14.90;
     }
-    public static String getName() {
+    static String getName() {
         return name;
     }
 

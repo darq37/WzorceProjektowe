@@ -1,6 +1,6 @@
 package com.umcs;
 
-class FrajerBuilder extends Builder {
+class PracownikBuilder extends Builder {
     @Override
     public void dajImie() { // tu te 3 metody dajace mu dane
         pracownik.setName("Jan");

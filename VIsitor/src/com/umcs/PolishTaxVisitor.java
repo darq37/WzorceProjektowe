@@ -1,6 +1,5 @@
 package com.umcs;
 
-import java.text.DecimalFormat;
 
 public class PolishTaxVisitor implements Visitor{
 

@@ -8,8 +8,12 @@ public class Main {
     public static void main(String[] args) {
         FabrykaFabrykBroni fabrykaFabrykBroni = new FabrykaFabrykBroni();
         AssaultRifle ak = fabrykaFabrykBroni.wydajFabryke("AK").wydajBron();
+        AssaultRifle ak2 = new FabrykaAK47().wydajBron();
+        ak2.probnyStrzal();
+
         ak.sprawdz();
         ak.probnyStrzal();
+        ak2.probnyStrzal();
         System.out.println("M4A1");
         AssaultRifle m4 = fabrykaFabrykBroni.wydajFabryke("M4").wydajBron();
         m4.sprawdz();

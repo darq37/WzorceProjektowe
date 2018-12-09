@@ -1,6 +1,6 @@
 package com.umcs;
 
-public class Pracownik { /* Pierwsze to tworze sobie klasze pracownika, pracownikow bedzie 2, szef i frajer za 1500 zl, co pracuje*/
+public class Pracownik { /* Pierwsze to tworze sobie klasze pracownika, pracownikow bedzie 2, szef i zwykły za 1500 zl, co pracuje*/
     private String name;
     private String surname;
     private int salary; // deklaruje 3 zmienne, imie, nazwisko no i pensje, zmienne są prywatne, nie mozemy ich zmienic sobie w main, od tego jest buiilder

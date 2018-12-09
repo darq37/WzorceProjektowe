@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Kierownik kierownik = new Kierownik(); // by uzyc metod Kieronika, oczywiscie także musi być stworzony obiekt kierownika
         Builder builderSzefa = new BossBuilder(); // Tworzymy teraz nowe obiekty poszczególnych builderów
-        Builder builderFrajera = new FrajerBuilder();
+        Builder builderFrajera = new PracownikBuilder();
 
         System.out.println("o to jest boss");
         kierownik.setBuilder(builderSzefa); // kierownik wykorzystuje metode Kierownika setBuilder, która ustala konkretny builder, w ty wypadku szefa ( dany jest obiekt typu Builder builderSzefa jako parametr)
